@@ -1,0 +1,15 @@
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/bin/Debug/net6.0/HomeWork001
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/bin/Debug/net6.0/HomeWork001.deps.json
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/bin/Debug/net6.0/HomeWork001.runtimeconfig.json
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/bin/Debug/net6.0/HomeWork001.dll
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/bin/Debug/net6.0/HomeWork001.pdb
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.csproj.AssemblyReference.cache
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.AssemblyInfoInputs.cache
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.AssemblyInfo.cs
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.csproj.CoreCompileInputs.cache
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.dll
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/refint/HomeWork001.dll
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.pdb
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/HomeWork001.genruntimeconfig.cache
+/Users/immortal1307/Desktop/HomeWork1/HomeWork001/obj/Debug/net6.0/ref/HomeWork001.dll
